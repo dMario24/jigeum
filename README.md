@@ -2,7 +2,7 @@
 
 ### instructions
 ```python
->>> import jigeum
+>>> import jigeum.seoul
 >>> jigeum.seoul.now()
 '2024-09-20 12:25:32'
 ```

@@ -1,6 +1,6 @@
 [project]
 name = "jigeum"
-version = "1.0.1"
+version = "1.0.2"
 description = "jigeum seoul now"
 authors = [
     {name = "dMario24", email = "data.mario24@gmail.com"},
